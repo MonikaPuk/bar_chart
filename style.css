@@ -1,0 +1,10 @@
+.bar{
+    background-color: pink;
+    margin: 1px;
+}
+
+.bars{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+}
